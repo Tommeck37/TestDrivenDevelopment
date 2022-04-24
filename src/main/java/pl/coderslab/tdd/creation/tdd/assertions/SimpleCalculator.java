@@ -2,7 +2,8 @@ package pl.coderslab.tdd.creation.tdd.assertions;
 
 public class SimpleCalculator {
 
-	public int add(int x, int y) {
+
+	public static int add(int x, int y) {
 		return x + y;
 	}
 
