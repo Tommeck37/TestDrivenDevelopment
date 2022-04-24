@@ -1,4 +1,4 @@
-package pl.coderslab.tdd.assertions;
+package pl.coderslab.tdd.creation.tdd.assertions;
 
 public class MaxValue {
 	public static int largest(int[] list) {
