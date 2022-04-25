@@ -13,7 +13,6 @@ class MaxValueTest {
         int [] list = {};
         int expected = 4;
 
-//        int result = MaxValue.largest(list);
         assertThrows(RuntimeException.class, ()->MaxValue.largest(list));
 //        assertEquals(expected, result);
     }
